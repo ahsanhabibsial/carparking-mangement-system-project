@@ -1,6 +1,6 @@
 # 🚗 Car Parking Management System
 
-A simple **JavaFX-based application** for managing a small car parking lot. This project demonstrates basic **Object-Oriented Programming (OOP)** concepts like **encapsulation**, **abstraction**, and **classes/objects**.
+A JavaFX-based GUI app to manage a small parking lot. Users can park, view, and remove cars, with optional password protection. Built using OOP, arrays, and basic input handling, it demonstrates key Java programming concepts in a simple interface.
 
 ---
 
@@ -13,16 +13,38 @@ A simple **JavaFX-based application** for managing a small car parking lot. This
 - Basic input validation and user-friendly error messages
 
 ---
+## OOP Concepts Used
+Encapsulation: Car data is wrapped inside a class with private fields.
+
+Abstraction: Users interact with buttons without needing to know how it works internally.
+
+Inheritance: Application class from JavaFX is extended.
+
+Polymorphism: start() method overrides the one from JavaFX Application class.
 
 ## 💻 Technologies Used
 
 - Java
 - JavaFX (for GUI)
 - OOP concepts (classes, methods, encapsulation, abstraction)
-
+- IDE: IntelliJ / Eclipse / VS Code
 ---
 
+## 📸 Screenshots
+-display
+![image](https://github.com/user-attachments/assets/bb7ed0ff-fd43-49f6-b57c-48cf37812099)
+
+
 ## 🚀 How to Run the Project
+
+Install Java (JDK 8 or higher)
+
+Install JavaFX SDK
+
+Set up JavaFX in your IDE
+
+Compile and run the project using the main class:
+https://1drv.ms/u/c/e29c481b86b7f8e1/EdbiUhsjFtlEgQPSVaKBwKoB4Ugy0uZpnMzyOHJh1ROi3g?e=KzfeDz
 
 ### 1. Clone or Download the Project
 
