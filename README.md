@@ -27,6 +27,22 @@
 - OOP concepts (classes, methods, encapsulation, abstraction)
 - IDE: IntelliJ / Eclipse / VS Code
 ---
+## JAVAFX GUI DESIGN
+- JavaFX GUI Components Used:
+- BorderPane for layout
+- VBox & HBox for button arrangement
+- Buttons: Park, Display, Remove, Password
+- TextArea for car list display
+- TextInputDialog for user inputs
+
+---
+## Functional Flow
+- 1. Park Car → Input license plate → Add to array
+- 2. Display Cars → Show in TextArea
+- 3. Remove Car → Input license plate → Search & remove
+- 4. Password Protection → Optional, for secure access
+Code Snippet:
+---
 
 ## 📸 Screenshots
 - display
@@ -42,8 +58,8 @@
 - Install Java (JDK 8 or higher)
 - Install JavaFX SDK
 - Set up JavaFX in your IDE
-- Compile and run the project using the main class:
-- https://1drv.ms/u/c/e29c481b86b7f8e1/EdbiUhsjFtlEgQPSVaKBwKoB4Ugy0uZpnMzyOHJh1ROi3g?e=KzfeDz
+- Compile and run the project using the main class
+
 ---
 
 ### 1. Clone or Download the Project
