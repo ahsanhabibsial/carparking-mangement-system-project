@@ -1,6 +1,6 @@
 # 🚗 Car Parking Management System
 
-A JavaFX-based GUI app to manage a small parking lot. Users can park, view, and remove cars, with optional password protection. Built using OOP, arrays, and basic input handling, it demonstrates key Java programming concepts in a simple interface.
+- A JavaFX-based GUI app to manage a small parking lot. Users can park, view, and remove cars, with optional password protection. Built using OOP, arrays, and basic input handling, it demonstrates key Java programming concepts in a simple interface.
 
 ---
 
@@ -14,13 +14,11 @@ A JavaFX-based GUI app to manage a small parking lot. Users can park, view, and 
 
 ---
 ## OOP Concepts Used
-Encapsulation: Car data is wrapped inside a class with private fields.
-
-Abstraction: Users interact with buttons without needing to know how it works internally.
-
-Inheritance: Application class from JavaFX is extended.
-
-Polymorphism: start() method overrides the one from JavaFX Application class.
+- Encapsulation: Car data is wrapped inside a class with private fields.
+- Abstraction: Users interact with buttons without needing to know how it works internally.
+- Inheritance: Application class from JavaFX is extended.
+- Polymorphism: start() method overrides the one from JavaFX Application class.
+---
 
 ## 💻 Technologies Used
 
@@ -38,19 +36,17 @@ Polymorphism: start() method overrides the one from JavaFX Application class.
 - change pasward
 - ![image](https://github.com/user-attachments/assets/a9f8746a-1f87-44a9-9c5e-39d47f4632d7)
 
-
+---
 ## 🚀 How to Run the Project
 
-Install Java (JDK 8 or higher)
-
-Install JavaFX SDK
-
-Set up JavaFX in your IDE
-
-Compile and run the project using the main class:
-https://1drv.ms/u/c/e29c481b86b7f8e1/EdbiUhsjFtlEgQPSVaKBwKoB4Ugy0uZpnMzyOHJh1ROi3g?e=KzfeDz
+- Install Java (JDK 8 or higher)
+- Install JavaFX SDK
+- Set up JavaFX in your IDE
+- Compile and run the project using the main class:
+- https://1drv.ms/u/c/e29c481b86b7f8e1/EdbiUhsjFtlEgQPSVaKBwKoB4Ugy0uZpnMzyOHJh1ROi3g?e=KzfeDz
+---
 
 ### 1. Clone or Download the Project
 
 ```bash
-git clone https://github.com/yourusername/car-parking-management.git
+(https://github.com/ahsanhabibsial/carparking-mangement-system-project.git)
