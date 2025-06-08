@@ -31,8 +31,12 @@ Polymorphism: start() method overrides the one from JavaFX Application class.
 ---
 
 ## 📸 Screenshots
--display
-![image](https://github.com/user-attachments/assets/bb7ed0ff-fd43-49f6-b57c-48cf37812099)
+- display
+- ![image](https://github.com/user-attachments/assets/bb7ed0ff-fd43-49f6-b57c-48cf37812099)
+- car remove
+- ![image](https://github.com/user-attachments/assets/3d0b22b1-eb67-4b13-bebe-78e84fe18072)
+- change pasward
+- ![image](https://github.com/user-attachments/assets/a9f8746a-1f87-44a9-9c5e-39d47f4632d7)
 
 
 ## 🚀 How to Run the Project
